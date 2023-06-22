@@ -1,7 +1,3 @@
-#Ankit Anand
-#MCS 260 Spring 2022 Project 3
-#I hereby attest that I have adhered to the rules for projects as well as UIC’s Academic Integrity standards while completing this project.
-
 from tkinter import * #Importing tkinter
 import tkinter as tk
 import re #importing regular expression
